@@ -1,0 +1,15 @@
+{
+  "key.bombamod.open": "Otwórz panel Bombamod",
+  "category.bombamod": "Bombamod",
+  "screen.bombamod.title": "BOMBAMOD",
+  "screen.bombamod.subtitle": "PANEL DIAGNOSTYCZNY",
+  "screen.bombamod.scan": "Skanuj latest.log",
+  "screen.bombamod.close": "Zamknij",
+  "screen.bombamod.ready": "Gotowy do lokalnego skanowania",
+  "screen.bombamod.note": "Skan działa wyłącznie na plikach Twojego klienta.",
+  "screen.bombamod.no_log": "Nie znaleziono logs/latest.log.",
+  "screen.bombamod.too_large": "Log jest większy niż limit 25 MB.",
+  "screen.bombamod.scan_error": "Nie udało się odczytać pliku logu.",
+  "screen.bombamod.result": "Znalezione wystąpienia IPv4: %s",
+  "screen.bombamod.footer": "F6  •  FABRIC 1.21.4"
+}
